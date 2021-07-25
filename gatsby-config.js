@@ -6,7 +6,7 @@ module.exports = {
     navlink: [
       { url: "/", label: "首页" },
       { url: "/about", label: "关于" },
-      { url: "https://github.com", label: "Github" },
+      { url: "https://github.com/whatk233/gatsby-simple-tailwindcss-blog", label: "Github" },
     ],
   },
   plugins: [
