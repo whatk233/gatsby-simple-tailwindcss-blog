@@ -10,6 +10,8 @@
 * 响应式
 * ~~简洁~~
 
+演示：https://gatsby-simple-tailwindcss-blog.pages.dev/
+
 ---
     content
     ├── media (媒体(图片等))
@@ -53,3 +55,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.com/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
 ## 💫 Deploy
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/whatk233/gatsby-simple-tailwindcss-blog)
