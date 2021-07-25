@@ -1,0 +1,49 @@
+{
+  "name": "gatsby-simple-tailwindcss-blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "a simple gatsby blog.",
+  "author": "Whatk <whatk@foxmail.com>",
+  "bugs": {
+    "url": "https://github.com/whatk233/gatsby-simple-tailwindcss-blog/issues"
+  },
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.4.0",
+    "@emotion/styled": "^11.3.0",
+    "@tailwindcss/typography": "^0.4.1",
+    "autoprefixer": "^10.3.1",
+    "gatsby": "^3.9.1",
+    "gatsby-plugin-emotion": "^6.9.0",
+    "gatsby-plugin-image": "^1.10.1",
+    "gatsby-plugin-manifest": "^3.9.0",
+    "gatsby-plugin-postcss": "^4.9.0",
+    "gatsby-plugin-react-helmet": "^4.9.0",
+    "gatsby-plugin-sharp": "^3.10.2",
+    "gatsby-plugin-sitemap": "^4.5.0",
+    "gatsby-remark-images": "^5.7.0",
+    "gatsby-source-filesystem": "^3.10.0",
+    "gatsby-transformer-remark": "^4.6.0",
+    "gatsby-transformer-sharp": "^3.10.0",
+    "postcss": "^8.3.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-helmet": "^6.1.0",
+    "tailwindcss": "^2.2.4"
+  },
+  "homepage": "https://github.com/gatsbyjs/gatsby-starter-blog#readme",
+  "keywords": [
+    "gatsby"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whatk233/gatsby-simple-tailwindcss-blog.git"
+  }
+}
